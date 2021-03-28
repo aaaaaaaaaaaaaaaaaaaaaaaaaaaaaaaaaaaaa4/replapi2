@@ -1,7 +1,6 @@
 # replapi v2
 
-#### by ch1ck3n
-
+#### yet another repltalk api
 ## Introduction
 
 All replit users have trouble getting profile information for this web app, not anymore! ch1ck3n made a replit api that is super easy to use. Just read on!
