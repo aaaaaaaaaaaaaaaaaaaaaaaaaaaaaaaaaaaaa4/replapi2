@@ -48,7 +48,7 @@ returns the user's most recent repls.
 
 `email()`
 
-returns the has of the user's email.
+returns the hash of the user's email.
 
 `bio()`
 
