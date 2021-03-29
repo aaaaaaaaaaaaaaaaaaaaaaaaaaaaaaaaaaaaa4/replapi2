@@ -11,7 +11,7 @@ setup(
 
   ],
   url = "https://replit.com/@ch1ck3n/replapi-v2",
-  version = "0.0.2",
+  version = "0.0.3",
   description = "replapi2 (replit.com api) by ch1ck3n",
   long_description = long_description,
   long_description_content_type = "text/markdown",

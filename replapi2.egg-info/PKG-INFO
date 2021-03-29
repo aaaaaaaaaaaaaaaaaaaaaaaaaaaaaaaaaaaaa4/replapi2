@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: replapi2
-Version: 0.0.2
+Version: 0.0.3
 Summary: replapi2 (replit.com api) by ch1ck3n
 Home-page: https://replit.com/@ch1ck3n/replapi-v2
 Author: ch1ck3n
@@ -56,7 +56,7 @@ Description: # replapi v2
         
         `email()`
         
-        returns the has of the user's email.
+        returns the hash of the user's email.
         
         `bio()`
         
