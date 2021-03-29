@@ -66,9 +66,9 @@ class UserInfo:
     def organization(self):
         return self.json["organization"]
 
+    # 69th line poggers
     def replit_cycles(self):
         name = self.username
-        # 69th line poggers
         try:
             e = asyncio.run(replit_cycle_get(f"{name}"))
             return e
