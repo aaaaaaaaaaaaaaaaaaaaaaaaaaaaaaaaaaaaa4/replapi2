@@ -25,6 +25,8 @@ async def replit_cycle_get(name=None):
 class UserInfo:
     def __init__(self, username):
         self.username = username
+        if requests.get("https://replit.com/data/profiles/" + username).text:
+            exit("User not found")
         self.json = json.loads(
             requests.get("https://replit.com/data/profiles/" + username).text)
 
